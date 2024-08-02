@@ -28,7 +28,7 @@ Clone the repository and install the dependencies using Yarn:
 yarn install && yarn start
 ```
 
-
+```
 poke-client/
 │
 ├── src/
@@ -49,6 +49,7 @@ poke-client/
 ├── tsconfig.json
 ├── package.json
 └── README.md
+```
 
 
 ## Key Files and Directories
